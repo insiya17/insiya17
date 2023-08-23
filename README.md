@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @insiya17
-- 👀 I’m interested in Android development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning Computer science
-- 💞️ I’m looking to collaborate on Android developer
 - 📫 Ping me on my Mail insuvohra5253@gmail.com
 
 <!---
